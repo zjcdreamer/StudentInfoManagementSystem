@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Eclopse workspace.iml" filepath="$PROJECT_DIR$/../Eclopse workspace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java版学生信息管理系统.iml" filepath="$PROJECT_DIR$/.idea/Java版学生信息管理系统.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java版学生信息管理系统.iml" filepath="$PROJECT_DIR$/Java版学生信息管理系统.iml" />
+      <module fileurl="file://D:/IDEA/Servlet.iml" filepath="D:/IDEA/Servlet.iml" />
+      <module fileurl="file://D:/IDEA/Project/day13_tomcat.iml" filepath="D:/IDEA/Project/day13_tomcat.iml" />
+      <module fileurl="file://D:/IDEA/day14_tomcat.iml" filepath="D:/IDEA/day14_tomcat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../day_tomcat.iml" filepath="$PROJECT_DIR$/../day_tomcat.iml" />
+    </modules>
+  </component>
+</project>
